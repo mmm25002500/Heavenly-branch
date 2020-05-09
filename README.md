@@ -9,11 +9,13 @@
 
 下載此專案 Download Project
 ` git clone https://github.com/mmm25002500/-Heavenly-branch `
+
 安裝 Install
 `點擊Install.exe` `Click Install.exe`
 ### Linux(Ubuntu)
 安裝JRE Install JRE
 `sudo apt install openjdk-8-*`
+
 下載此專案 Download Project
 ` git clone https://github.com/mmm25002500/-Heavenly-branch `
 打開此軟體 Open Software
